@@ -151,11 +151,7 @@
     }
     .header h2{
         font-size: 50px;
-        background-image: url("./img/sak.gif");
-        background-size: cover; 
-        background-position:center;
-        color: transparent;
-        background-clip: text;
+        color:#12bdff;
     } 
     header button{
         background-color:black;
@@ -276,12 +272,7 @@
     main h1>span{
         padding-top: 10px;
         font-size: 35px;
-        background-image: url("./img/yok.gif");
-        background-size: cover; 
-        background-position: center;
-        color: transparent;
-        background-clip: text;
-        
+         color:#12bdff;
     
     }
     .img{
@@ -423,12 +414,7 @@
     .h1{
         font-size: 80px;
         text-align: center;
-        background-image: url("./img/cs.gif");
-        background-size: cover; 
-        background-position:bottom;
-        color: transparent;
-        background-clip: text;
-        
+          color:#12bdff;
     }
     .project-main{
         background-color: #22282f;
@@ -582,11 +568,6 @@
         text-align: center;
         padding-bottom: 30px;
         color: var(--blue);
-        background-image: url("./img/cs.gif");
-        background-size: cover; 
-        background-position:bottom;
-        color: transparent;
-        background-clip: text;
         
     }
     .nit{
